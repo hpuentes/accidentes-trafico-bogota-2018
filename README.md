@@ -1,6 +1,6 @@
 # Accidentes de tráfico según su gravedad en las diferentes localidades de Bogotá - 2018
 
-![Localidades](https://github.com/hpuentes/accidentes-trafico-bogota-2018/blob/master/localidad3.png)
+![Localidades](https://github.com/hpuentes/accidentes-trafico-bogota-2018/blob/master/localidad3.png =250x250)
 
 ### Fuente: Datos Abiertos Bogotá </br> Accidentes de Tránsito en la ciudad de Bogotá - 2018 y diccionario de datos. 
 http://datosabiertos.bogota.gov.co/dataset/9af693ae-7051-43a3-90fa-1717a15c4890?_external=True
