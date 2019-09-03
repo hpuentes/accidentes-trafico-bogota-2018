@@ -12,3 +12,16 @@ El principal objetivo de esta herramienta es servir de apoyo logístico a las pa
 Esta herramienta entrega información valiosa sobre la distribución de accidentalidad, generando como principal valor el entender el comportamiento estacional y causal a nivel de Ciudad y de sus localidades, ayudando a los policias de tránsito a organizar el operativo de control de tránsito más apropiado dada las principales causas de accidentalidad a lo largo del año.
 
 Esta visualización corresponde a una presentación interactiva de la accidentalidad en vehículos automotores en la ciudad de Bogotá durante el año 2018. Se cuenta con tres categorías de accidentes de tráfico (Accidentes de tráfico, Accidentes de tráfico con heridos y Accidentes de tráfico con muertos) por medio de los cuales se puede entender como fue el comportamiento por localidad, incidentes mensuales y causa del siniestro. Adicional se puede seleccionar una localidad (Dar click sobre la barra) y de forma interactiva se visualiza la cantidad de siniestros a lo largo del año y la cantidad de sinisestros por causa, enfocado exclusivamente en la localidad seleccionada. La visual de causa del accidente presenta el top 10 de principales causas y excluye las causas registradas como "OTRA" y como " ".
+
+## Tecnologías usadas
+
+* D3@5
+* Javascript
+
+## Visualización 
+
+https://observablehq.com/@hpuentes/accidentes-de-trafico-segun-su-gravedad-en-las-diferentes-l
+
+## Autor
+Hermes Puentes Navarro https://www.linkedin.com/in/hermes-puentes-navarro-1898b2b3/
+
